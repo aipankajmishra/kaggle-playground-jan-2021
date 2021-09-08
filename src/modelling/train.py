@@ -1,5 +1,6 @@
-#!/usr/bin/env python
 
-from src.utils.general_imports import *
 
-print(pd.__version__)
+from ..utils.general_imports import *
+
+
+
